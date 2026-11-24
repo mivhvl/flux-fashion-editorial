@@ -1,3 +1,5 @@
+# flux-fashion-editorial
+
 Generate high-resolution, realistic fashion editorial images from a product photo and a optional mood board, using only open-source models and free Kaggle GPUs.
 
 ## Idea
