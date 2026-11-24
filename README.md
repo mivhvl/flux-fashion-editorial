@@ -41,7 +41,7 @@ Same prompt and settings, only the seed or the mood board reference changes.
 
 | Seed 1, with mood board reference | Seed 2, with mood board reference | Seed 1, without mood board reference |
 |---|---|---|
-| <img src="examples/seed1_mood.png" width="220"> | <img src="examples/seed2_mood.png" width="220"> | <img src="examples/seed1_nomood.png" width="220"> |
+| <img src="examples/seed1_mood.png" width="220"> | <img src="examples/seed2_moood.png" width="220"> | <img src="examples/seed1_nomood.png" width="220"> |
 
 The seed changes the composition and details while the prompt keeps the overall look. Without the mood board reference, the model relies only on the prompt and the product photo.
 
