@@ -1,6 +1,3 @@
-
-<img src="examples/header.jpg" width="100%">
-
 Generate high-resolution, realistic fashion editorial images from a product photo and a optional mood board, using only open-source models and free Kaggle GPUs.
 
 ## Idea
@@ -123,7 +120,7 @@ campaign-lens/
 └── README.md
 ```
 
-<img src="examples/examples.jpg" width="100%">
+<img src="examples/examples.jpg" width="85%">
 
 ## Limitations
 
